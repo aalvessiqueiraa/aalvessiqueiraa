@@ -49,10 +49,10 @@
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aalvessiqueiraa&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aalvessiqueiraa&layout=compact&hide_border=true&theme=default" alt="Top Languages"/>
+  <img height="165" src="https://github-readme-stats-sigma-pink.vercel.app/api?username=aalvessiqueiraa&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats-sigma-pink.vercel.app/api/top-langs/?username=aalvessiqueiraa&layout=compact&hide_border=true&theme=default" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aalvessiqueiraa&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=aalvessiqueiraa&hide_border=true" alt="GitHub Streak"/>
 </p>
