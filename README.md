@@ -46,13 +46,9 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
-### 📊 Estatísticas do GitHub
+### 📊 GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-pink.vercel.app/api?username=aalvessiqueiraa&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats-sigma-pink.vercel.app/api/top-langs/?username=aalvessiqueiraa&layout=compact&hide_border=true&theme=default" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=aalvessiqueiraa&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://img.shields.io/github/followers/aalvessiqueiraa?label=Seguidores&style=for-the-badge&color=181717&logo=github&logoColor=white" alt="Seguidores"/>
+  <img src="https://komarev.com/ghpvc/?username=aalvessiqueiraa&label=Visualiza%C3%A7%C3%B5es+do+perfil&style=for-the-badge&color=181717" alt="Visualizações do perfil"/>
 </p>
