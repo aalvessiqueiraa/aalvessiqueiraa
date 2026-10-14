@@ -51,5 +51,5 @@
 <p align="center">
   <img src="https://img.shields.io/github/followers/aalvessiqueiraa?label=Seguidores&style=for-the-badge&color=181717&logo=github&logoColor=white" alt="Seguidores"/>
   <img src="https://komarev.com/ghpvc/?username=aalvessiqueiraa&label=Visualiza%C3%A7%C3%B5es+do+perfil&style=for-the-badge&color=181717" alt="Visualizações do perfil"/>
-  <img src="https://img.shields.io/badge/Contribuições%20(último%20ano)-4%2C000-181717?style=for-the-badge&logo=github&logoColor=white" alt="Contribuições no último ano"/>
+  <img src="https://img.shields.io/badge/Contribuições%20(último%20ano)-4%2C000+-181717?style=for-the-badge&logo=github&logoColor=white" alt="Contribuições no último ano"/>
 </p>
